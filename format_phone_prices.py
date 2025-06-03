@@ -5,7 +5,7 @@ import csv
 def parse_phone_data(line):
     # Extract brand
     brand = None
-    if "Google" in line:
+    if "Google" in line or "Pixel" in line:
         brand = "Google"
     elif "Apple" in line or "iPhone" in line or "iPad" in line or "Mac" in line:
         brand = "Apple"
@@ -13,8 +13,46 @@ def parse_phone_data(line):
         brand = "Samsung"
     elif "Xiaomi" in line or "Redmi" in line or "Poco" in line:
         brand = "Xiaomi"
-    elif "Amazon" in line:
+    elif "Amazon" in line or "Kindle" in line:
         brand = "Amazon"
+    elif "Realme" in line or "Narzo" in line:
+        brand = "Realme"
+    elif "OnePlus" in line:
+        brand = "OnePlus"
+    elif "Motorola" in line or "Moto" in line:
+        brand = "Motorola"
+    elif "Honor" in line or "HONOR" in line:
+        brand = "Honor"
+    elif "Oppo" in line:
+        brand = "Oppo"
+    elif "Vivo" in line:
+        brand = "Vivo"
+    elif "iQOO" in line:
+        brand = "iQOO"
+    elif "Nothing" in line or "CMF" in line:
+        brand = "Nothing"
+    elif "ZTE" in line or "Nubia" in line:
+        brand = "ZTE"
+    elif "Infinix" in line:
+        brand = "Infinix"
+    elif "Nokia" in line:
+        brand = "Nokia"
+    elif "Asus" in line or "ROG" in line:
+        brand = "Asus"
+    elif "Helio" in line:
+        brand = "Helio"
+    elif "XTRA" in line:
+        brand = "XTRA"
+    elif "Maximus" in line:
+        brand = "Maximus"
+    elif "DIZO" in line:
+        brand = "DIZO"
+    elif "Tecno" in line:
+        brand = "Tecno"
+    elif "Benco" in line:
+        brand = "Benco"
+    elif "Lenovo" in line:
+        brand = "Lenovo"
 
     # Skip if it's a header or warranty line
     if not brand or "Warranty" in line or "Price" in line or "————" in line:
@@ -30,8 +68,10 @@ def parse_phone_data(line):
     price = match.group(3).strip().replace(",", "")
 
     # Determine if it's official or unofficial
-    official = "Official"
+    official = "Official"  # Default to official
     if "CN" in line or "IND" in line or "INT" in line:
+        official = "Unofficial"
+    elif "Unofficial" in line:
         official = "Unofficial"
 
     # Extract variant (if any)
@@ -44,6 +84,16 @@ def parse_phone_data(line):
         variant = "Dual"
     elif "Single" in line:
         variant = "Single"
+    elif "CN" in line:
+        variant = "CN"
+    elif "IND" in line:
+        variant = "IND"
+    elif "INT" in line:
+        variant = "INT"
+    elif "JP" in line:
+        variant = "JP"
+    elif "HK" in line:
+        variant = "HK"
 
     # Check if out of stock
     stock_status = ""

@@ -1,4 +1,22 @@
 Brand	Phone Name	Official/Unofficial	Storage	Variant	Price	Stock-Out
+Google	Pixel 6	Official	8/128		34999	
+Google	Pixel 7	Official	8/128		42499	
+Google	Pixel 7 Pro	Official	12/128		49999	
+Google	Pixel 7 Pro	Official	12/256		54499	
+Google	Pixel 8A	Official	8/128		47999	
+Google	Pixel 8	Official	8/128		57499	
+Google	Pixel 8 Pro	Official	12/128		68999	
+Google	Pixel 8 Pro	Official	12/256		101999	
+Google	Pixel 9	Official	12/128		73999	
+Google	Pixel 9	Official	12/256		90999	
+Google	Pixel 9 Pro	Official	16/128		93999	
+Google	Pixel 9 Pro	Official	16/256		117999	
+Google	Pixel 9 Pro	Official	16/512		119999	
+Google	Pixel 9 Pro XL	Official	16/128		103999	
+Google	Pixel 9 Pro XL	Official	16/256		112499	
+Google	Pixel 9 Pro XL	Official	16/512		121999	
+Google	Pixel 9 Pro Fold	Official	16/256		134999	
+Google	Pixel 9 Pro Fold	Official	16/512		229999	
 Apple	iPhone 13	Official	128GB	Global	63999	
 Apple	iPhone 14	Official	128GB	USA	71999	
 Apple	iPhone 14	Official	256GB	Global	99999	
@@ -121,30 +139,30 @@ Xiaomi	Redmi Pad Pro	Official	8/256		32999
 Xiaomi	Redmi 12	Official	6/128		15999	
 Xiaomi	Redmi 13C	Official	4/128		13999	
 Xiaomi	Redmi 13C	Official	6/128		14999	
-Xiaomi	Redmi Note 12 4G	Unofficial	6/64		18499	
-Xiaomi	Redmi Note 13 4G	Unofficial	8/256		20499	
-Xiaomi	Redmi Turbo 3	Unofficial	12/256		28499	Out of Stock
-Xiaomi	Redmi Turbo 4	Unofficial	12/256		37999	
-Xiaomi	Redmi Turbo 4	Unofficial	16/256		39499	
-Xiaomi	Redmi Note 13 Pro 4G	Unofficial	8/256		25499	
-Xiaomi	Redmi Note 13 Pro 5G	Unofficial	8/256		32999	
+Xiaomi	Redmi Note 12 4G	Unofficial	6/64	IND	18499	
+Xiaomi	Redmi Note 13 4G	Unofficial	8/256	INT	20499	
+Xiaomi	Redmi Turbo 3	Unofficial	12/256	CN	28499	Out of Stock
+Xiaomi	Redmi Turbo 4	Unofficial	12/256	CN	37999	
+Xiaomi	Redmi Turbo 4	Unofficial	16/256	CN	39499	
+Xiaomi	Redmi Note 13 Pro 4G	Unofficial	8/256	INT	25499	
+Xiaomi	Redmi Note 13 Pro 5G	Unofficial	8/256	INT	32999	
 Xiaomi	Redmi Note 13 Pro 5G	Unofficial	8/256	Global	27499	
-Xiaomi	Redmi Note 13 Pro Plus	Unofficial	8/256		38999	
-Xiaomi	Redmi Note 13 Pro Plus	Unofficial	8/256		33499	
-Xiaomi	Redmi Note 13 Pro Plus	Unofficial	12/256		35999	
-Xiaomi	Redmi Note 13 Pro Plus	Unofficial	12/256		35499	
-Xiaomi	Redmi Note 13 Pro Plus	Unofficial	12/512		39999	
-Xiaomi	Redmi Note 14 5G	Unofficial	6/128		27499	
-Xiaomi	Redmi Note 14 4G	Unofficial	8/256		20999	
-Xiaomi	Redmi Note 14 Pro	Unofficial	8/128		34999	
-Xiaomi	Redmi Note 14 Pro 5G	Unofficial	8/256		32499	
-Xiaomi	Redmi Note 14 Pro	Unofficial	12/256		30499	
-Xiaomi	Redmi Note 14 Pro 5G	Unofficial	12/256		35499	
-Xiaomi	Redmi Note 14 Pro 5G	Unofficial	12/512		36499	
-Xiaomi	Redmi Note 14 Pro Plus	Unofficial	8/128		42499	
-Xiaomi	Redmi Note 14 Pro Plus	Unofficial	12/256		33499	
-Xiaomi	Redmi Note 14 Pro Plus	Unofficial	8/256		39999	Out of Stock
-Xiaomi	Redmi Note 14 Pro Plus	Unofficial	12/512		44999	
+Xiaomi	Redmi Note 13 Pro Plus	Unofficial	8/256	INT	38999	
+Xiaomi	Redmi Note 13 Pro Plus	Unofficial	8/256	IND	33499	
+Xiaomi	Redmi Note 13 Pro Plus	Unofficial	12/256	IND	35999	
+Xiaomi	Redmi Note 13 Pro Plus	Unofficial	12/256	CN	35499	
+Xiaomi	Redmi Note 13 Pro Plus	Unofficial	12/512	IND	39999	
+Xiaomi	Redmi Note 14 5G	Unofficial	6/128	IND	27499	
+Xiaomi	Redmi Note 14 4G	Unofficial	8/256	INT	20999	
+Xiaomi	Redmi Note 14 Pro	Unofficial	8/128	IND	34999	
+Xiaomi	Redmi Note 14 Pro 5G	Unofficial	8/256	INT	32499	
+Xiaomi	Redmi Note 14 Pro	Unofficial	12/256	CN	30499	
+Xiaomi	Redmi Note 14 Pro 5G	Unofficial	12/256	INT	35499	
+Xiaomi	Redmi Note 14 Pro 5G	Unofficial	12/512	INT	36499	
+Xiaomi	Redmi Note 14 Pro Plus	Unofficial	8/128	IND	42499	
+Xiaomi	Redmi Note 14 Pro Plus	Unofficial	12/256	CN	33499	
+Xiaomi	Redmi Note 14 Pro Plus	Unofficial	8/256	INT	39999	Out of Stock
+Xiaomi	Redmi Note 14 Pro Plus	Unofficial	12/512	INT	44999	
 Xiaomi	Xiaomi 14	Official	12/512		85499	
 Xiaomi	Xiaomi 14T	Official	12/256		53999	
 Xiaomi	Xiaomi 15 ULTRA	Official	16/512		149999	
@@ -162,17 +180,165 @@ Xiaomi	Poco M3	Official	6/128		15499	Out of Stock
 Xiaomi	Poco M6	Official	6/128		16999	
 Xiaomi	Poco X5	Official	6/128		20999	Out of Stock
 Xiaomi	Poco X5	Official	8/256		22999	Out of Stock
-Xiaomi	Poco X6	Unofficial	8/256		27499	
-Xiaomi	Poco X6	Unofficial	12/256		28499	
+Xiaomi	Poco X6	Unofficial	8/256	IND	27499	
+Xiaomi	Poco X6	Unofficial	12/256	IND	28499	
 Xiaomi	Poco X6 Neo	Official	8/128		18999	
 Xiaomi	Poco X6 Neo	Official	12/256		23999	
-Xiaomi	Poco X6 Pro	Unofficial	8/256		32499	
-Xiaomi	Poco X6 Pro	Unofficial	12/512		39499	
+Xiaomi	Poco X6 Pro	Unofficial	8/256	IND	32499	
+Xiaomi	Poco X6 Pro	Unofficial	12/512	IND	39499	
 Xiaomi	Poco X7	Official	8/128		28499	
 Xiaomi	Poco X7	Official	8/256		31999	
-Xiaomi	Poco X7 Pro	Unofficial	8/256		36499	
-Xiaomi	Poco X7 Pro	Unofficial	12/256		39999	
+Xiaomi	Poco X7 Pro	Unofficial	8/256	IND	36499	
+Xiaomi	Poco X7 Pro	Unofficial	12/256	IND	39999	
 Xiaomi	Poco X7 Pro	Official	12/512		57999	
+OnePlus	OnePlus Nord N20 SE	Official	4/64		14499	
+OnePlus	OnePlus Nord 4	Official	8/128		37499	
+OnePlus	OnePlus Nord 4	Official	8/256		38499	
+OnePlus	OnePlus Nord 4	Official	12/256		43499	
+OnePlus	OnePlus Nord 4	Official	16/512		60499	
+OnePlus	OnePlus Nord CE 3	Official	8/128		30999	
+OnePlus	OnePlus Nord CE 3	Official	12/256		42499	
+OnePlus	OnePlus Nord CE 3 Lite	Official	8/128		28999	
+OnePlus	OnePlus Nord CE 3 Lite	Official	8/256		30999	
+OnePlus	OnePlus Nord CE 4	Official	8/128		33999	
+OnePlus	OnePlus Nord CE 4	Official	8/256		35999	
+OnePlus	OnePlus Open	Official	16/512		159999	
+OnePlus	OnePlus 11R	Official	16/256GB		49999	
+OnePlus	OnePlus 12R	Official	8/128		53999	
+OnePlus	OnePlus 12R	Official	16/256		62499	
+OnePlus	OnePlus 12	Official	12/256		79999	
+OnePlus	OnePlus 12	Official	16/512		99999	
+OnePlus	OnePlus 13	Official	12/256		90999	
+OnePlus	OnePlus 13	Official	16/512		96499	
+OnePlus	OnePlus 13R	Unofficial	12/256	IND	58999	
+Realme	Realme Narzo 50	Official	4/64		16499	Out of Stock
+Realme	Realme Narzo 50	Official	6/128		17999	Out of Stock
+Realme	Realme Narzo N53	Official	4/64		13499	
+Realme	Realme Narzo N53	Official	6/128		15999	
+Realme	Realme Narzo N53	Official	8/128		17499	
+Realme	Realme Narzo N55	Official	4/64		15499	
+Realme	Realme Narzo N55	Official	6/128		18499	
+Realme	Realme Narzo 60	Official	8/128		22999	
+Realme	Realme Narzo 60	Official	8/256		26999	Out of Stock
+Realme	Realme Narzo 60 Pro	Official	8/128		33499	Out of Stock
+Realme	Realme Narzo 60 Pro	Official	12/256		34499	
+Realme	Realme Narzo 60 Pro	Official	12/1TB		43499	Out of Stock
+Realme	Realme Narzo 70 Pro	Official	8/128		25999	
+Realme	Realme Narzo 70 Turbo	Official	8/128		24999	
+Realme	Realme Narzo 80 Pro	Official	8/256		32499	
+Realme	Realme Narzo 80X	Official	8/128		22999	
+Realme	Realme C55	Official	4/64		14499	
+Realme	Realme C55	Official	6/64		15499	Out of Stock
+Realme	Realme C55	Official	8/128		17999	
+Realme	Realme 10 4G	Official	4/64		17999	
+Realme	Realme 10 4G	Official	8/128		22999	Out of Stock
+Realme	Realme 10 4G	Official	8/256GB		23999	Out of Stock
+Realme	Realme GT Neo 5	Official	12/256		40999	Out of Stock
+Realme	Realme GT Neo 5	Official	16GB/1TB		56999	Out of Stock
+Realme	Realme GT Neo5 SE	Official	12/256		38999	Out of Stock
+Realme	Realme GT Neo6 SE	Official	8/256		37499	Out of Stock
+Realme	Realme GT Neo6 SE	Official	12/256		39499	Out of Stock
+Realme	Realme GT5	Official	12/256		58499	Out of Stock
+Realme	Realme GT5 Pro	Official	12/256		71999	Out of Stock
+Motorola	Moto G04s	Official	4/64		13999	
+Motorola	Moto G05	Official	4/64		12499	
+Motorola	Moto G24 Power	Official	4/128		14999	Out of Stock
+Motorola	Moto G24 Power	Official	8/128		19499	
+Motorola	Moto G34	Official	8/128		19999	Out of Stock
+Motorola	Moto G35	Official	4/128		16499	
+Motorola	Moto G45	Official	4/128		15999	
+Motorola	Moto G45	Official	8/128		18499	
+Motorola	Moto G64	Official	8/128		22499	
+Motorola	Moto G64	Official	12/256		24499	
+Motorola	Moto G85	Official	8/128		24999	
+Motorola	Moto G85	Official	12/256		27999	
+Motorola	Moto Edge 50 Neo	Official	8/256		31499	
+Motorola	Moto Edge 50	Official	8/256		33499	
+Motorola	Moto Edge 50 Pro	Official	8/256		42999	Out of Stock
+Motorola	Moto Edge 50 Pro	Official	12/256		41999	
+Motorola	Moto Edge 50 Fusion	Official	8/128		28999	
+Motorola	Moto Edge 50 Fusion	Official	12/256		33999	
+Motorola	Moto Edge 60 Fusion	Official	8/256		33499	
+Motorola	Moto Edge 60 Fusion	Official	12/256		36499	
+Motorola	Moto Edge 60 Pro	Official	8/256		48499	
+Motorola	Moto Edge 60 Pro	Official	12/256		53499	
+Motorola	Moto Edge 60 Stylus	Official	8/256		33999	
+Motorola	Motorola Razr 40 Ultra	Official	12/512GB		79999	
+Motorola	Motorola Razr 50 Ultra	Official	12/512GB		89999	
+Honor	HONOR X9b	Unofficial	8/256	IND	27999	Out of Stock
+Honor	HONOR X9b	Unofficial	12/256	INT	28999	
+Honor	HONOR X9c	Unofficial	12/256	INT	32999	
+Honor	HONOR X9c	Unofficial	12/512	INT	37999	
+Honor	HONOR X9c Smart	Official	12/256		26999	
+Honor	HONOR 90	Unofficial	8/256	IND	38499	Out of Stock
+Honor	HONOR 90	Unofficial	12/256	INT	34999	
+Honor	HONOR 90	Unofficial	12/512	INT	44999	Out of Stock
+Honor	HONOR 90 Lite	Unofficial	8/256	INT	21999	
+Honor	HONOR 200	Unofficial	8/256	IND	32999	
+Honor	HONOR 200	Unofficial	12/256	INT	37999	
+Honor	HONOR 200	Unofficial	12/512	INT	41999	
+Honor	HONOR 400	Unofficial	12/256	INT	42999	
+Honor	HONOR 400	Unofficial	12/512	INT	44999	
+Honor	HONOR 400 Pro	Unofficial	12/512	INT	64999	
+Honor	HONOR 400 Lite	Unofficial	12/256	INT	26999	
+Honor	HONOR GT	Unofficial	12/256	CN	41499	
+Honor	HONOR Magic 5 Pro	Unofficial	12/512	INT	89999	
+Honor	HONOR Magic 6 Pro	Unofficial	12/512	INT	100999	
+Honor	HONOR Magic 7 Pro	Unofficial	12/256	CN	103999	
+Honor	HONOR Magic 7 Pro	Unofficial	12/512	INT	132999	
+Honor	HONOR Magic V2	Unofficial	16/512	INT	129999	
+Honor	HONOR Magic Pad 2	Official	12/256		56999	
+Oppo	Oppo Reno 10 Pro Plus	Unofficial	12/256	INT	54999	
+Asus	Asus ROG Phone 8	Official	12/256		96999	
+Asus	Asus ROG Phone 8	Official	16/256		107999	
+Vivo	Vivo V40	Official	12/256		47499	
+Vivo	Vivo V50	Unofficial	8/256	IND	47499	
+Vivo	Vivo X100 Pro	Unofficial	16/512	CN	109999	
+Vivo	Vivo X200	Unofficial	12/256	CN	71499	
+Vivo	Vivo X200 Pro	Unofficial	12/256	CN	92499	
+Vivo	Vivo X200 Pro	Unofficial	16/512	CN	96499	
+Vivo	Vivo X200 Pro Mini	Unofficial	12/256	CN	83999	
+Vivo	Vivo T3 Ultra	Official	8/256		45999	
+Vivo	Vivo T4X	Official	6/128		22999	
+Vivo	Vivo T4X	Official	8/256		27499	
+iQOO	iQOO Z6 Lite	Official	6/128GB		20499	Out of Stock
+iQOO	iQOO Z7 Pro	Official	8/256		33499	Out of Stock
+iQOO	iQOO Z9 5G	Unofficial	8/128	IND	25999	
+iQOO	iQOO Z9 5G	Unofficial	8/256	IND	27499	
+iQOO	iQOO Z9s	Official	8/128		28499	
+iQOO	iQOO Z9s	Official	8/256		31499	
+iQOO	iQOO Z9s Pro	Official	8/128		35999	
+iQOO	iQOO Z9s Pro	Official	12/256		41499	
+iQOO	iQOO Z9 Turbo	Unofficial	12/256	CN	34499	
+iQOO	iQOO Z9 Turbo Plus	Unofficial	12/256	CN	41999	
+iQOO	iQOO Z9X 5G	Unofficial	6/128	IND	18999	
+iQOO	iQOO Z10	Official	8/128		31999	
+iQOO	iQOO Z10	Official	8/256		34499	
+iQOO	iQOO Z10X 5G	Unofficial	6/128	IND	21499	
+iQOO	iQOO Z10X 5G	Unofficial	8/128	IND	24499	
+iQOO	iQOO Z10X 5G	Unofficial	8/256	IND	24999	
+iQOO	iQOO Neo7 SE	Official	12/256GB		36999	
+iQOO	iQOO Neo 7 Pro	Official	8/128		47999	
+iQOO	iQOO Neo 7 Pro	Official	8/256		54999	
+iQOO	iQOO Neo 8	Official	12/256		42499	
+iQOO	iQOO Neo 8 Pro	Official	16/256		56999	
+iQOO	iQOO Neo 9	Unofficial	12/256	CN	37499	
+iQOO	iQOO Neo 9	Unofficial	16/256	CN	51499	
+iQOO	iQOO Neo 9 Pro	Unofficial	8/256	IND	52999	Out of Stock
+iQOO	iQOO Neo 9 Pro	Official	12/256		59499	Out of Stock
+iQOO	iQOO Neo 10	Unofficial	12/256	CN	41999	
+iQOO	iQOO Neo 10R	Unofficial	8/128	IND	39999	
+iQOO	iQOO Neo 10R	Unofficial	12/256	IND	47499	
+iQOO	iQOO 12	Unofficial	12/256GB	CN	72499	
+iQOO	iQOO 13	Unofficial	12/256GB	CN	74999	
+Nothing	CMF Phone 1	Unofficial	6/128	IND	23499	
+Nothing	CMF Phone 1	Unofficial	8/128	IND	22499	
+Nothing	Nothing Phone 3A	Unofficial	8/128	IND	35999	
+Nothing	Nothing Phone 3A	Unofficial	8/256	IND	38999	
+ZTE	ZTE Nubia Filp	Official	8/256		66999	Out of Stock
+Google	Pixel 7 Pro	Official	12/128		59999	
+Google	Pixel 8 Pro	Official	12/128		79999	
+Google	Pixel 9	Official	12/128		89999	
 Xiaomi	Redmi 14C	Official	4/128		12999	
 Xiaomi	Redmi 14C	Official	6/128		13999	
 Xiaomi	Redmi Note 13	Official	6/128		20999	
@@ -185,3 +351,61 @@ Xiaomi	Redmi Note 14 Pro Plus	Official	12/512		54999
 Xiaomi	Redmi Pad Pro	Official	6/128		27999	
 Xiaomi	Redmi Pad Pro	Official	8/256		32499	
 Xiaomi	Xiaomi Pad 7	Official	8/256		42999	
+Honor	HONOR X5b	Official	4/64		10999	
+Honor	HONOR X5b Plus	Official	4/128		12999	
+Honor	HONOR X6b	Official	6/128		14999	
+Honor	HONOR X7C	Official	8/256		22999	
+Honor	HONOR X8a	Official	8/128		25499	
+Honor	HONOR X8C	Official	8/512		34999	
+Honor	HONOR X9C	Official	12/256		44999	
+Honor	HONOR 200	Official	12/512		52999	
+Honor	HONOR 400	Official	12/512		59999	
+Honor	HONOR 400 Pro	Official	12/512		78999	
+Honor	HONOR Pad 9	Official	8/256		36999	
+Honor	HONOR Pad X8a	Official	4/64		17999	
+Honor	HONOR Pad X8a	Official	4/128		19999	
+Honor	HONOR Pad X8a	Official	4/128		26999	
+Honor	HONOR Pad X9	Official	4/128		22999	
+Honor	HONOR Pad X9 LTE	Official	4/128		29999	
+Motorola	Motorola E22S	Official	4/64		14999	
+Motorola	Motorola E32	Official	4/64		15999	
+OnePlus	OnePlus Nord N30 SE	Official	4/128		16999	
+OnePlus	OnePlus Nord CE 4 Lite 5G	Official	8/256		23999	
+OnePlus	OnePlus Nord 4	Official	12/256GB		54999	
+OnePlus	OnePlus Nord 4	Official	16/512GB		65999	
+OnePlus	OnePlus 13	Official	12/256		103899	
+OnePlus	OnePlus 13	Official	16/512		111999	
+OnePlus	OnePlus 13R	Official	12/256		72999	
+OnePlus	OnePlus Pad 2	Official	12/256		59999	
+Realme	Realme C61	Official	6+128		14999	
+Realme	Realme C63	Official	6+128		14999	
+Realme	Realme C63	Official	8+128		15999	
+Realme	Realme C65	Official	8/128		17999	
+Realme	Realme C65	Official	8/256		20999	
+Realme	Realme C71	Official	4/128		14999	
+Realme	Realme C71	Official	6/128		15999	
+Realme	Realme C75	Official	8/128		19999	
+Realme	Realme C75	Official	8/256		22999	
+Realme	Realme C75X	Official	6/128		17999	
+Realme	Realme Note 60	Official	4/64		11499	
+Realme	Realme Note 60	Official	4/128		11999	
+Realme	Realme Note 60X	Official	4/64		10999	
+Realme	Realme 12 4G	Official	8/256		27999	
+Realme	Realme 14 5G	Official	12/256		41999	
+Realme	Realme 14T 5G	Official	8/256		31999	
+Helio	Helio 40	Official	6/128		12499	
+Helio	Helio 40	Official	8/128		13199	
+Helio	Helio 50	Official	6/128		14699	
+Helio	Helio 50	Official	8/128		15499	
+Helio	Helio 90	Official	8/128		19999	
+Benco	Benco S1	Official	6/128		11999	
+Benco	Benco V90 Plus	Official	4/64		8990	
+Benco	Benco S1 Pro	Official	6/128		14990	
+Benco	Benco S1 Pro	Official	8/256		15290	
+Benco	Benco S1	Official	8/128		12599	
+Benco	Benco V90	Official	4/64		9199	
+Benco	Benco V91	Official	4/128		9999	
+Benco	Benco V91	Official	8/128		10999	
+Benco	Benco V91C	Official	4/128		10999	
+Benco	Benco V91 Plus	Official	6/128		12499	
+Benco	Benco V91 Plus	Official	8/256		16499	
