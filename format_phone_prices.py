@@ -58,14 +58,24 @@ def parse_phone_data(line):
     if not brand or "Warranty" in line or "Price" in line or "————" in line:
         return None
 
-    # Extract phone name and storage
-    match = re.match(r"([^[]+)\s*\[([^\]]+)\]\s*[-]*\s*BDT\.?\s*([\d,]+)/-", line)
-    if not match:
+    # Try to extract storage if present
+    storage_match = re.search(r"\[([^\]]+)\]", line)
+    storage = storage_match.group(1).strip() if storage_match else ""
+
+    # Try to extract price (supporting multiple formats)
+    price_match = re.search(r"BDT\.?\s*([\d,]+)(?:/-|TK| tk|Tk)?", line, re.IGNORECASE)
+    price = price_match.group(1).replace(",", "") if price_match else ""
+    if not price:
         return None
 
-    phone_name = match.group(1).strip()
-    storage = match.group(2).strip()
-    price = match.group(3).strip().replace(",", "")
+    # Extract phone name (before storage or before price if no storage)
+    if storage:
+        phone_name = line.split("[")[0].strip()
+    else:
+        # Try to get the part before price
+        phone_name = re.split(
+            r"BDT\.?\s*[\d,]+(?:/-|TK| tk|Tk)?", line, flags=re.IGNORECASE
+        )[0].strip()
 
     # Determine if it's official or unofficial
     official = "Official"  # Default to official

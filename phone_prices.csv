@@ -17,7 +17,7 @@ Google	Pixel 9 Pro XL	Official	16/256		112499
 Google	Pixel 9 Pro XL	Official	16/512		121999	
 Google	Pixel 9 Pro Fold	Official	16/256		134999	
 Google	Pixel 9 Pro Fold	Official	16/512		229999	
-Apple	iPhone 13	Official	128GB	Global	63999	
+Apple	iPhone 13	Official	128GB	Global	65999	
 Apple	iPhone 14	Official	128GB	USA	71999	
 Apple	iPhone 14	Official	256GB	Global	99999	
 Apple	iPhone 14 Plus	Official	128GB	USA	82999	
@@ -26,6 +26,7 @@ Apple	iPhone 15	Official	128GB	USA	81999
 Apple	iPhone 15	Official	256GB	USA	93499	
 Apple	iPhone 15 Plus	Official	128GB	USA	91499	
 Apple	iPhone 15 Plus	Official	256GB	USA	108999	
+Apple	iPhone 15 Pro	Official	128GB	USA	117999	
 Apple	iPhone 15 Pro	Official	256GB	USA	131999	
 Apple	iPhone 15 Pro Max	Official	256GB	USA	130999	
 Apple	iPhone 15 Pro Max	Official	512GB	Global	159999	
@@ -39,7 +40,7 @@ Apple	iPhone 16 Pro	Official	128GB	USA	122999
 Apple	iPhone 16 Pro	Official	256GB	USA	135999	
 Apple	iPhone 16 Pro Max	Official	256GB	USA	142499	
 Apple	iPhone 16 Pro Max	Official	512GB	Global	180999	
-Apple	iPhone 16 Pro Max	Official	1TB	Global	202999	
+Apple	iPhone 16 Pro Max	Official	1TB	Global	204999	
 Apple	iPad 9th Gen WiFi	Official	64GB		34499	
 Apple	iPad 9th Gen WiFi	Official	256GB		49999	
 Apple	iPad 10th Gen WiFi	Official	64GB		39499	
@@ -47,6 +48,11 @@ Apple	iPad 10th Gen WiFi + Cell	Official	64GB		49499
 Apple	iPad 10th Gen WiFi	Official	256GB		55999	
 Apple	iPad 11th Gen WiFi	Official	128GB		45499	
 Apple	iPad 11th Gen WiFi	Official	256GB		61999	
+Apple	iPad Mini 6 64GB WiFi ------------------------	Official			47499	
+Apple	iPad Mini 7 128GB WiFi -----------------------	Official			56999	
+Apple	iPad Mini 7 256GB WiFi -----------------------	Official			79499	
+Apple	iPad Air 5 M1 64GB WiFi --------------------------	Official			62999	
+Apple	iPad Air 5 M1 256GB WiFi -------------------------	Official			72999	
 Apple	"iPad Air M2 11"" 128GB"	Official	2024		69999	
 Apple	"iPad Air M2 11"" 128GB (WiFi + Cell)"	Official	2024		92999	
 Apple	"iPad Air M2 11"" 256GB"	Official	2024		81999	
@@ -56,6 +62,16 @@ Apple	"iPad Air M3 11"" 128GB"	Official	2025		75499
 Apple	"iPad Air M3 11"" 256GB"	Official	2025		89999	
 Apple	"iPad Air M3 13"" 128GB"	Official	2025		104999	
 Apple	"iPad Air M3 13"" 256GB"	Official	2025		129499	
+Apple	"iPad Pro 11"" M2 128GB WiFi -------------"	Official			98999	
+Apple	"iPad Pro 11"" M2 256GB WiFi -------------"	Official			111999	
+Apple	"iPad Pro 12.9"" M2 128GB WiFi ---------------"	Official			131999	
+Apple	"iPad Pro 12.9"" M2 128GB Cell ----------------"	Official			149999	
+Apple	"iPad Pro 12.9"" M2 256GB WiFi ---------------"	Official			141999	
+Apple	"iPad Pro 12.9"" M2 256GB Cell ----------------"	Official			144999	
+Apple	"iPad Pro 12.9"" M2"	Official	512GB		164999	
+Apple	"iPad Pro 11""  M4"	Official	256GB		117999	
+Apple	"iPad Pro 11""  M4"	Official	512GB		136999	
+Apple	"iPad Pro 13""  M4"	Official	256GB		148999	
 Apple	Mac Mini M2	Official	8/256		67999	
 Apple	Mac Mini M2	Official	8/512		89999	
 Apple	Mac Mini M2 Pro	Official	16/512		166999	
@@ -122,12 +138,28 @@ Samsung	Galaxy A55	Official	8/256		44499
 Samsung	Galaxy A55	Official	12/256		46499	
 Samsung	Galaxy A56	Official	8/128		42499	
 Samsung	Galaxy A56	Official	8/256		47499	
-Samsung	Galaxy A56	Official	12/256		49499	
+Samsung	Galaxy A56	Official	12/256		48499	
 Samsung	Galaxy A36	Official	8/128		34999	
 Samsung	Galaxy A36	Official	8/256		39499	
 Samsung	Galaxy A36	Official	12/256		41499	
+Samsung	Samsung Galaxy S23 (8/128) --------------------	Official			61499	
+Samsung	Samsung Galaxy S23 (8/256) --------------------	Official			65499	
+Samsung	Samsung Galaxy S23 Plus (8/256) ---------------	Official			79999	
 Samsung	Samsung Galaxy S24	Official	8/128	Single	67499	
-Samsung	Samsung Galaxy S25	Official	12/256	Dual	87499	
+Samsung	Samsung Galaxy S24	Official	8/256		73499	
+Samsung	Samsung Galaxy S24 Plus	Official	12/256	Single	87999	
+Samsung	Samsung Galaxy S24 Plus	Official	12/256	Dual	95999	
+Samsung	Samsung Galaxy S24 FE	Official	8/128		54499	
+Samsung	Samsung Galaxy S24 FE	Official	8/256		59499	
+Samsung	Samsung Galaxy S24 Ultra (12/256) ----------	Official			101999	
+Samsung	Samsung Galaxy S24 Ultra (12/256) ----------	Official			114999	
+Samsung	Samsung Galaxy S24 Ultra (12/512) ----------	Official			114499	
+Samsung	Samsung Galaxy S24 Ultra (12/1TB) ----------	Official			165999	
+Samsung	Samsung Galaxy S25	Official	12/256	Dual	89999	
+Samsung	Samsung Galaxy S25 Ultra (12/256) ----------	Official		Dual	121999	
+Samsung	Samsung Galaxy S25 Ultra (12/512) ----------	Official		Dual	135499	
+Samsung	Samsung Galaxy S25 Ultra (12/1TB) ----------	Official		Dual	169999	
+Amazon	Amazon Kindle Paperwhite	Official	32GB		20499	
 Xiaomi	Redmi Pad	Official	6/128		29499	
 Xiaomi	Redmi Pad SE	Official	8/256		21499	
 Xiaomi	Xiaomi Pad 5	Official	6/128		36499	
@@ -178,6 +210,7 @@ Xiaomi	Poco C65	Official	8/256		14999	Out of Stock
 Xiaomi	Poco C75	Official	4/64		13999	
 Xiaomi	Poco M3	Official	6/128		15499	Out of Stock
 Xiaomi	Poco M6	Official	6/128		16999	
+Xiaomi	Poco F6	Unofficial	8/256	IND	35	
 Xiaomi	Poco X5	Official	6/128		20999	Out of Stock
 Xiaomi	Poco X5	Official	8/256		22999	Out of Stock
 Xiaomi	Poco X6	Unofficial	8/256	IND	27499	
@@ -253,12 +286,12 @@ Motorola	Moto G64	Official	12/256		24499
 Motorola	Moto G85	Official	8/128		24999	
 Motorola	Moto G85	Official	12/256		27999	
 Motorola	Moto Edge 50 Neo	Official	8/256		31499	
-Motorola	Moto Edge 50	Official	8/256		33499	
+Motorola	Moto Edge 50	Official	8/256		34499	
 Motorola	Moto Edge 50 Pro	Official	8/256		42999	Out of Stock
 Motorola	Moto Edge 50 Pro	Official	12/256		41999	
-Motorola	Moto Edge 50 Fusion	Official	8/128		28999	
+Motorola	Moto Edge 50 Fusion	Official	8/128		30499	
 Motorola	Moto Edge 50 Fusion	Official	12/256		33999	
-Motorola	Moto Edge 60 Fusion	Official	8/256		33499	
+Motorola	Moto Edge 60 Fusion	Official	8/256		34499	
 Motorola	Moto Edge 60 Fusion	Official	12/256		36499	
 Motorola	Moto Edge 60 Pro	Official	8/256		48499	
 Motorola	Moto Edge 60 Pro	Official	12/256		53499	
@@ -268,18 +301,20 @@ Motorola	Motorola Razr 50 Ultra	Official	12/512GB		89999
 Honor	HONOR X9b	Unofficial	8/256	IND	27999	Out of Stock
 Honor	HONOR X9b	Unofficial	12/256	INT	28999	
 Honor	HONOR X9c	Unofficial	12/256	INT	32999	
-Honor	HONOR X9c	Unofficial	12/512	INT	37999	
+Honor	HONOR X9c	Unofficial	12/512	INT	34999	
 Honor	HONOR X9c Smart	Official	12/256		26999	
 Honor	HONOR 90	Unofficial	8/256	IND	38499	Out of Stock
 Honor	HONOR 90	Unofficial	12/256	INT	34999	
 Honor	HONOR 90	Unofficial	12/512	INT	44999	Out of Stock
 Honor	HONOR 90 Lite	Unofficial	8/256	INT	21999	
+Honor	HONOR 100 Pro	Unofficial	12/256	CN	66499	
 Honor	HONOR 200	Unofficial	8/256	IND	32999	
-Honor	HONOR 200	Unofficial	12/256	INT	37999	
+Honor	HONOR 200	Unofficial	12/256	INT	37499	
 Honor	HONOR 200	Unofficial	12/512	INT	41999	
+Honor	HONOR 200 Pro	Unofficial	12/512	INT	52999	
 Honor	HONOR 400	Unofficial	12/256	INT	42999	
 Honor	HONOR 400	Unofficial	12/512	INT	44999	
-Honor	HONOR 400 Pro	Unofficial	12/512	INT	64999	
+Honor	HONOR 400 Pro	Unofficial	12/512	INT	67999	
 Honor	HONOR 400 Lite	Unofficial	12/256	INT	26999	
 Honor	HONOR GT	Unofficial	12/256	CN	41499	
 Honor	HONOR Magic 5 Pro	Unofficial	12/512	INT	89999	
@@ -311,7 +346,7 @@ iQOO	iQOO Z9s Pro	Official	8/128		35999
 iQOO	iQOO Z9s Pro	Official	12/256		41499	
 iQOO	iQOO Z9 Turbo	Unofficial	12/256	CN	34499	
 iQOO	iQOO Z9 Turbo Plus	Unofficial	12/256	CN	41999	
-iQOO	iQOO Z9X 5G	Unofficial	6/128	IND	18999	
+iQOO	iQOO Z9X 5G	Unofficial	6/128	IND	19499	
 iQOO	iQOO Z10	Official	8/128		31999	
 iQOO	iQOO Z10	Official	8/256		34499	
 iQOO	iQOO Z10X 5G	Unofficial	6/128	IND	21499	
@@ -336,9 +371,37 @@ Nothing	CMF Phone 1	Unofficial	8/128	IND	22499
 Nothing	Nothing Phone 3A	Unofficial	8/128	IND	35999	
 Nothing	Nothing Phone 3A	Unofficial	8/256	IND	38999	
 ZTE	ZTE Nubia Filp	Official	8/256		66999	Out of Stock
+Nokia	Nokia 2660 Flip ------------	Official			7699	
+Nokia	Nokia 6310 -----------------	Official			6299	
+Nokia	Nokia 220 4G ---------------	Official			5999	
+Nokia	Nokia 235 4G  --------------	Official			6699	
+Nokia	Nokia 130 Music ------------	Official			3799	
+Nokia	Nokia 5310 -----------------	Official			6499	
+Nokia	Nokia 5710 -----------------	Official			7699	
+Nokia	Nokia 3310 -----------------	Official			7999	
+Apple	iPhone 14 128GB -----------------	Official			146999	
+Apple	iPhone 14 Pro Max 128GB ---------	Official			201599	
+Apple	iPhone 15 128GB --------------------	Official			159999	
+Apple	iPhone 15 Plus 256GB ---------------	Official			199999	
+Apple	iPhone 15 Pro 256GB ----------------	Official			219999	
+Apple	iPhone 15 Pro Max 256GB -----------	Official			239999	
+Apple	iPhone 15 Pro Max 512GB -----------	Official			279999	
+Apple	iPhone 15 Pro Max 1TB --------------	Official			319999	
+Apple	iPhone 16 128GB ---------------------	Official			169999	
+Apple	iPhone 16 Pro 128GB -----------------	Official			209999	
+Apple	iPhone 16 Pro 256GB -----------------	Official			229999	
+Apple	iPhone 16 Pro Max 256GB ------------	Official			249999	
+Apple	iPhone 16 Pro Max 512GB ------------	Official			294999	
+Apple	iPhone 16 Pro Max 1TB ---------------	Official			334999	
 Google	Pixel 7 Pro	Official	12/128		59999	
 Google	Pixel 8 Pro	Official	12/128		79999	
 Google	Pixel 9	Official	12/128		89999	
+Xiaomi	Redmi A5	Official	4/64		10999	
+Xiaomi	Redmi A5	Official	6/128		12999	
+Xiaomi	Redmi A3	Official	4/64		10999	
+Xiaomi	Redmi A3	Official	6/128		12999	
+Xiaomi	Redmi 13	Official	6/128		16999	
+Xiaomi	Redmi 13	Official	8/128		17999	
 Xiaomi	Redmi 14C	Official	4/128		12999	
 Xiaomi	Redmi 14C	Official	6/128		13999	
 Xiaomi	Redmi Note 13	Official	6/128		20999	
@@ -398,6 +461,16 @@ Helio	Helio 40	Official	8/128		13199
 Helio	Helio 50	Official	6/128		14699	
 Helio	Helio 50	Official	8/128		15499	
 Helio	Helio 90	Official	8/128		19999	
+Nokia	Nokia 105 DS 2023 ------------	Official			2350	
+Nokia	Nokia 106 DS 2023 ------------	Official			2475	
+Nokia	Nokia 110 DS 2023 ------------	Official			3000	
+Nokia	Nokia 150 DS 2023 ------------	Official			4199	
+Nokia	Nokia 3210 --------------------	Official			6499	
+Nokia	Nokia C22    --------------------	Official			9999	
+Nokia	Nokia C32    --------------------	Official			12999	
+XTRA	XTRA X10 ----------------------	Official			2199	
+Maximus	Maximus M311m ----------------	Official			1199	
+DIZO	DIZO STAR 400 ----------------	Official			2499	
 Benco	Benco S1	Official	6/128		11999	
 Benco	Benco V90 Plus	Official	4/64		8990	
 Benco	Benco S1 Pro	Official	6/128		14990	
